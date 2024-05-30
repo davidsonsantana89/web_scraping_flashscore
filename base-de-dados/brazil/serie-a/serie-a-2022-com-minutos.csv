@@ -1,0 +1,381 @@
+id_jogo;nacao;campeonato;ano;dia;home;away;HTHG;HTAG;FTHG;FTAG;home_goal_timings;away_goal_timings;odd_home;odd_draw;odd_away;over25;btts;endereco
+phbhGYqc;BRAZIL;SERIE A;2022;09.04.2022;Fluminense;Santos;0;0;0;0;[];[];1.75;3.4;5.25;2.5;2.25;https://www.flashscore.com/match/phbhGYqc/#/
+YHWu7U6q;BRAZIL;SERIE A;2022;09.04.2022;Atletico GO;Flamengo RJ;0;0;1;1;[75];[85];3.75;3.4;2.05;2.1;1.9;https://www.flashscore.com/match/YHWu7U6q/#/
+67n1ECE9;BRAZIL;SERIE A;2022;09.04.2022;Palmeiras;Ceara;1;2;2;3;[23, 90];[8, 14, 86];1.45;4.2;7.0;2.05;2.1;https://www.flashscore.com/match/67n1ECE9/#/
+6VUm58yd;BRAZIL;SERIE A;2022;10.04.2022;Coritiba;Goias;1;0;3;0;[11, 47, 90];[];1.85;3.3;4.75;2.35;2.1;https://www.flashscore.com/match/6VUm58yd/#/
+KAj5DWTF;BRAZIL;SERIE A;2022;10.04.2022;Botafogo RJ;Corinthians;0;3;1;3;[66];[17, 26, 44];2.6;3.0;3.0;2.5;2.05;https://www.flashscore.com/match/KAj5DWTF/#/
+WzeBik7d;BRAZIL;SERIE A;2022;10.04.2022;Atletico-MG;Internacional;1;0;2;0;[10, 90];[];1.5;4.2;6.5;1.88;1.95;https://www.flashscore.com/match/WzeBik7d/#/
+hOlDBAbS;BRAZIL;SERIE A;2022;10.04.2022;Fortaleza;Cuiaba;0;1;0;1;[];[8];1.9;3.2;4.5;2.6;2.25;https://www.flashscore.com/match/hOlDBAbS/#/
+OrcdFha3;BRAZIL;SERIE A;2022;10.04.2022;Sao Paulo;Athletico-PR;1;0;4;0;[20, 51, 70, 74];[];1.6;3.8;5.75;2.1;2.1;https://www.flashscore.com/match/OrcdFha3/#/
+C8Vq6lMk;BRAZIL;SERIE A;2022;10.04.2022;Avai;America MG;0;0;1;0;[52];[];3.0;2.87;2.7;2.87;2.25;https://www.flashscore.com/match/C8Vq6lMk/#/
+EXk9CjqM;BRAZIL;SERIE A;2022;11.04.2022;Juventude;Bragantino;1;1;2;2;[30, 69];[12, 89];2.25;3.2;3.3;2.4;2.05;https://www.flashscore.com/match/EXk9CjqM/#/
+KYfNJ7jk;BRAZIL;SERIE A;2022;16.04.2022;Goias;Palmeiras;0;0;1;1;[57];[90];6.0;3.75;1.61;2.1;2.1;https://www.flashscore.com/match/KYfNJ7jk/#/
+SzGrRkbF;BRAZIL;SERIE A;2022;16.04.2022;Corinthians;Avai;2;0;3;0;[9, 26, 55];[];1.5;3.8;8.0;2.3;2.5;https://www.flashscore.com/match/SzGrRkbF/#/
+I5Yi4Sj2;BRAZIL;SERIE A;2022;16.04.2022;America MG;Juventude;2;0;4;1;[19, 25, 65, 90];[84];2.05;3.1;4.2;2.87;2.37;https://www.flashscore.com/match/I5Yi4Sj2/#/
+bPgRIR5e;BRAZIL;SERIE A;2022;16.04.2022;Cuiaba;Fluminense;0;0;0;1;[];[90];3.0;3.0;2.6;2.6;2.1;https://www.flashscore.com/match/bPgRIR5e/#/
+6REnQ9DL;BRAZIL;SERIE A;2022;17.04.2022;Santos;Coritiba;2;1;2;1;[12, 32];[28];2.0;3.4;4.0;2.2;2.0;https://www.flashscore.com/match/6REnQ9DL/#/
+KACzTBT2;BRAZIL;SERIE A;2022;17.04.2022;Flamengo RJ;Sao Paulo;1;1;3;1;[25, 69, 72];[41];1.72;3.8;4.5;2.02;1.9;https://www.flashscore.com/match/KACzTBT2/#/
+lj4iPTSR;BRAZIL;SERIE A;2022;17.04.2022;Internacional;Fortaleza;1;1;2;1;[45, 90];[45];2.4;3.2;3.1;2.35;2.0;https://www.flashscore.com/match/lj4iPTSR/#/
+b1BvSVr9;BRAZIL;SERIE A;2022;17.04.2022;Bragantino;Atletico GO;3;0;4;0;[19, 26, 30, 59];[];1.8;3.6;4.75;2.25;2.0;https://www.flashscore.com/match/b1BvSVr9/#/
+vyBOHoL1;BRAZIL;SERIE A;2022;17.04.2022;Athletico-PR;Atletico-MG;0;0;0;1;[];[49];3.75;3.25;2.1;2.4;2.05;https://www.flashscore.com/match/vyBOHoL1/#/
+QBeJKmyq;BRAZIL;SERIE A;2022;17.04.2022;Ceara;Botafogo RJ;1;1;1;3;[43];[18, 60, 80];1.72;3.8;5.0;2.15;2.1;https://www.flashscore.com/match/QBeJKmyq/#/
+UwJkxyOD;BRAZIL;SERIE A;2022;20.04.2022;Flamengo RJ;Palmeiras;0;0;0;0;[];[];2.0;3.5;3.75;1.95;1.75;https://www.flashscore.com/match/UwJkxyOD/#/
+pY1Ev9SE;BRAZIL;SERIE A;2022;23.04.2022;Bragantino;Sao Paulo;1;0;1;1;[2];[70];3.4;3.1;2.3;2.25;1.9;https://www.flashscore.com/match/pY1Ev9SE/#/
+C2l5UO47;BRAZIL;SERIE A;2022;23.04.2022;Athletico-PR;Flamengo RJ;1;0;1;0;[32];[];3.6;3.3;2.05;2.05;1.8;https://www.flashscore.com/match/C2l5UO47/#/
+SdiJwTsL;BRAZIL;SERIE A;2022;23.04.2022;Palmeiras;Corinthians;2;0;3;0;[15, 19, 71];[];1.9;3.4;4.5;2.25;2.05;https://www.flashscore.com/match/SdiJwTsL/#/
+WUcAukD8;BRAZIL;SERIE A;2022;23.04.2022;Fluminense;Internacional;0;0;0;1;[];[54];1.8;3.5;4.75;2.5;2.2;https://www.flashscore.com/match/WUcAukD8/#/
+IR9SG5z8;BRAZIL;SERIE A;2022;23.04.2022;Atletico-MG;Coritiba;2;0;2;2;[23, 36];[62, 78];1.25;5.5;13.0;1.72;2.37;https://www.flashscore.com/match/IR9SG5z8/#/
+6mjNxmcR;BRAZIL;SERIE A;2022;24.04.2022;Santos;America MG;1;0;3;0;[29, 52, 79];[];2.15;3.2;3.6;2.5;2.1;https://www.flashscore.com/match/6mjNxmcR/#/
+burkY65r;BRAZIL;SERIE A;2022;24.04.2022;Juventude;Cuiaba;0;0;0;1;[];[84];2.05;3.1;4.33;2.87;2.37;https://www.flashscore.com/match/burkY65r/#/
+KfWcWpze;BRAZIL;SERIE A;2022;24.04.2022;Atletico GO;Botafogo RJ;0;0;1;1;[51];[90];2.25;3.5;3.1;2.05;1.9;https://www.flashscore.com/match/KfWcWpze/#/
+Iuk1V4k1;BRAZIL;SERIE A;2022;25.04.2022;Avai;Goias;1;0;3;2;[4, 51, 62];[77, 89];2.15;2.9;4.2;3.1;2.37;https://www.flashscore.com/match/Iuk1V4k1/#/
+0SdYTCVg;BRAZIL;SERIE A;2022;30.04.2022;Ceara;Bragantino;0;1;0;1;[];[17];2.05;3.2;4.2;2.35;2.0;https://www.flashscore.com/match/0SdYTCVg/#/
+jgm9TrKD;BRAZIL;SERIE A;2022;30.04.2022;America MG;Athletico-PR;0;0;1;0;[75];[];2.0;3.25;4.0;2.25;2.0;https://www.flashscore.com/match/jgm9TrKD/#/
+8hdxTWp0;BRAZIL;SERIE A;2022;30.04.2022;Goias;Atletico-MG;0;1;2;2;[53, 80];[39, 56];6.5;4.5;1.5;2.05;2.2;https://www.flashscore.com/match/8hdxTWp0/#/
+nqetSj06;BRAZIL;SERIE A;2022;30.04.2022;Cuiaba;Atletico GO;0;1;1;1;[82];[45];2.2;3.0;3.6;2.7;2.2;https://www.flashscore.com/match/nqetSj06/#/
+vD8PVY0s;BRAZIL;SERIE A;2022;01.05.2022;Botafogo RJ;Juventude;0;0;1;1;[83];[64];1.85;3.3;4.33;2.25;2.05;https://www.flashscore.com/match/vD8PVY0s/#/
+U7poRAFC;BRAZIL;SERIE A;2022;01.05.2022;Coritiba;Fluminense;0;2;3;2;[53, 61, 90];[19, 36];2.45;3.0;3.2;2.4;2.0;https://www.flashscore.com/match/U7poRAFC/#/
+2iHczFhQ;BRAZIL;SERIE A;2022;01.05.2022;Corinthians;Fortaleza;0;0;1;0;[53];[];1.8;3.4;5.0;2.3;2.05;https://www.flashscore.com/match/2iHczFhQ/#/
+MybUUhGm;BRAZIL;SERIE A;2022;01.05.2022;Internacional;Avai;0;0;0;0;[];[];1.5;3.75;8.0;2.25;2.25;https://www.flashscore.com/match/MybUUhGm/#/
+8UHgyewK;BRAZIL;SERIE A;2022;02.05.2022;Sao Paulo;Santos;1;1;2;1;[10, 82];[45];1.61;3.75;5.75;2.2;2.2;https://www.flashscore.com/match/8UHgyewK/#/
+rBlkQUUI;BRAZIL;SERIE A;2022;07.05.2022;Atletico-MG;America MG;0;1;1;2;[70];[7, 81];1.45;4.75;7.0;1.93;2.1;https://www.flashscore.com/match/rBlkQUUI/#/
+QikUQ1LT;BRAZIL;SERIE A;2022;07.05.2022;Athletico-PR;Ceara;0;0;1;0;[49];[];2.1;3.2;4.0;2.35;2.0;https://www.flashscore.com/match/QikUQ1LT/#/
+fm1dYRMu;BRAZIL;SERIE A;2022;08.05.2022;Flamengo RJ;Botafogo RJ;0;0;0;1;[];[51];1.5;4.33;6.5;1.72;1.8;https://www.flashscore.com/match/fm1dYRMu/#/
+jFf5W5ih;BRAZIL;SERIE A;2022;08.05.2022;Palmeiras;Fluminense;0;0;1;1;[72];[83];1.45;4.2;8.0;1.95;2.05;https://www.flashscore.com/match/jFf5W5ih/#/
+IRoMSNjH;BRAZIL;SERIE A;2022;08.05.2022;Atletico GO;Goias;0;1;0;1;[];[1];1.75;3.5;5.0;2.3;2.1;https://www.flashscore.com/match/IRoMSNjH/#/
+U5g9VP6b;BRAZIL;SERIE A;2022;08.05.2022;Santos;Cuiaba;2;1;4;1;[3, 37, 76, 79];[11];1.75;3.3;5.75;2.5;2.25;https://www.flashscore.com/match/U5g9VP6b/#/
+Yw00Xoxn;BRAZIL;SERIE A;2022;08.05.2022;Bragantino;Corinthians;0;0;0;1;[];[54];2.55;3.1;2.9;2.35;1.95;https://www.flashscore.com/match/Yw00Xoxn/#/
+OShDUqM4;BRAZIL;SERIE A;2022;08.05.2022;Juventude;Internacional;0;0;1;1;[90];[47];2.75;3.0;2.8;2.7;2.1;https://www.flashscore.com/match/OShDUqM4/#/
+z3dHT3yB;BRAZIL;SERIE A;2022;08.05.2022;Fortaleza;Sao Paulo;0;0;1;1;[69];[57];2.37;3.1;3.2;2.5;2.1;https://www.flashscore.com/match/z3dHT3yB/#/
+dIpQRs6N;BRAZIL;SERIE A;2022;09.05.2022;Avai;Coritiba;0;0;2;1;[62, 73];[52];2.3;3.2;3.3;2.35;2.0;https://www.flashscore.com/match/dIpQRs6N/#/
+tvKHd25c;BRAZIL;SERIE A;2022;11.05.2022;Bragantino;Atletico-MG;1;0;1;1;[13];[66];3.6;3.1;2.2;2.35;2.0;https://www.flashscore.com/match/tvKHd25c/#/
+xWInqqyb;BRAZIL;SERIE A;2022;14.05.2022;Palmeiras;Bragantino;1;0;2;0;[30, 90];[];1.33;5.0;9.5;1.61;2.0;https://www.flashscore.com/match/xWInqqyb/#/
+MZnitsLG;BRAZIL;SERIE A;2022;14.05.2022;Ceara;Flamengo RJ;1;2;2;2;[26, 90];[7, 38];4.0;3.5;1.95;2.05;1.95;https://www.flashscore.com/match/MZnitsLG/#/
+rqlmsN5A;BRAZIL;SERIE A;2022;14.05.2022;Internacional;Corinthians;2;1;2;2;[25, 44];[30, 64];2.25;3.25;3.3;2.4;2.0;https://www.flashscore.com/match/rqlmsN5A/#/
+S0ydMLTp;BRAZIL;SERIE A;2022;14.05.2022;Atletico-MG;Atletico GO;1;0;2;0;[14, 72];[];1.25;6.0;10.0;1.57;2.1;https://www.flashscore.com/match/S0ydMLTp/#/
+U5Fvo56o;BRAZIL;SERIE A;2022;14.05.2022;Fluminense;Athletico-PR;1;0;2;1;[8, 78];[90];2.05;3.1;4.0;2.7;2.25;https://www.flashscore.com/match/U5Fvo56o/#/
+r9JrpPLi;BRAZIL;SERIE A;2022;15.05.2022;Sao Paulo;Cuiaba;0;1;2;1;[66, 82];[33];1.44;4.0;8.5;2.07;2.25;https://www.flashscore.com/match/r9JrpPLi/#/
+zsTRZvbp;BRAZIL;SERIE A;2022;15.05.2022;Coritiba;America MG;1;0;1;0;[45];[];2.2;3.25;3.5;2.4;2.05;https://www.flashscore.com/match/zsTRZvbp/#/
+GMHjr3j4;BRAZIL;SERIE A;2022;15.05.2022;Botafogo RJ;Fortaleza;1;1;3;1;[42, 89, 90];[14];2.25;3.1;3.4;2.35;1.95;https://www.flashscore.com/match/GMHjr3j4/#/
+UajavLkT;BRAZIL;SERIE A;2022;15.05.2022;Avai;Juventude;1;1;1;2;[27];[25, 70];2.25;3.0;3.6;2.7;2.2;https://www.flashscore.com/match/UajavLkT/#/
+Gdneu1zN;BRAZIL;SERIE A;2022;15.05.2022;Goias;Santos;1;0;1;0;[19];[];3.2;3.1;2.45;2.35;1.95;https://www.flashscore.com/match/Gdneu1zN/#/
+2mLDcrji;BRAZIL;SERIE A;2022;21.05.2022;Flamengo RJ;Goias;1;0;1;0;[17];[];1.16;7.0;17.0;1.44;2.1;https://www.flashscore.com/match/2mLDcrji/#/
+QR5whvKS;BRAZIL;SERIE A;2022;21.05.2022;Atletico GO;Coritiba;1;0;2;0;[45, 90];[];2.05;3.3;3.6;2.07;1.9;https://www.flashscore.com/match/QR5whvKS/#/
+zwDQftzA;BRAZIL;SERIE A;2022;21.05.2022;Santos;Ceara;0;0;0;0;[];[];2.3;3.1;3.3;2.25;1.95;https://www.flashscore.com/match/zwDQftzA/#/
+UaCUg0kG;BRAZIL;SERIE A;2022;21.05.2022;Juventude;Palmeiras;0;2;0;3;[];[9, 31, 90];4.5;3.4;1.85;2.25;2.0;https://www.flashscore.com/match/UaCUg0kG/#/
+Szh5mbSq;BRAZIL;SERIE A;2022;21.05.2022;Cuiaba;Internacional;0;0;1;1;[50];[83];2.9;3.0;2.62;2.7;2.2;https://www.flashscore.com/match/Szh5mbSq/#/
+EXRVYbDj;BRAZIL;SERIE A;2022;21.05.2022;America MG;Botafogo RJ;1;0;1;1;[38];[86];2.62;3.1;2.9;2.3;1.95;https://www.flashscore.com/match/EXRVYbDj/#/
+8jBYhK4M;BRAZIL;SERIE A;2022;22.05.2022;Fortaleza;Fluminense;0;1;0;1;[];[9];2.0;3.2;4.2;2.4;2.1;https://www.flashscore.com/match/8jBYhK4M/#/
+O29MeMK3;BRAZIL;SERIE A;2022;22.05.2022;Corinthians;Sao Paulo;0;1;1;1;[80];[45];2.5;2.87;3.25;2.87;2.25;https://www.flashscore.com/match/O29MeMK3/#/
+Mci9nIsj;BRAZIL;SERIE A;2022;22.05.2022;Athletico-PR;Avai;2;0;2;1;[25, 44];[51];1.6;3.8;6.5;2.2;2.2;https://www.flashscore.com/match/Mci9nIsj/#/
+GKCr1Hdq;BRAZIL;SERIE A;2022;28.05.2022;Goias;Bragantino;0;1;1;1;[74];[40];2.9;3.0;2.62;2.4;2.0;https://www.flashscore.com/match/GKCr1Hdq/#/
+GdYa9uk3;BRAZIL;SERIE A;2022;28.05.2022;Sao Paulo;Ceara;2;1;2;2;[9, 42];[37, 72];1.72;3.6;5.0;2.25;2.1;https://www.flashscore.com/match/GdYa9uk3/#/
+buQG5clS;BRAZIL;SERIE A;2022;28.05.2022;Fortaleza;Juventude;0;0;1;1;[65];[50];1.61;3.6;6.5;2.15;2.1;https://www.flashscore.com/match/buQG5clS/#/
+2DW77JJF;BRAZIL;SERIE A;2022;29.05.2022;Santos;Palmeiras;0;0;0;1;[];[80];4.0;3.3;2.0;2.1;1.95;https://www.flashscore.com/match/2DW77JJF/#/
+Cn6iaeRe;BRAZIL;SERIE A;2022;29.05.2022;Coritiba;Botafogo RJ;1;0;1;0;[29];[];2.7;3.0;2.87;2.35;1.95;https://www.flashscore.com/match/Cn6iaeRe/#/
+x6ZeALZd;BRAZIL;SERIE A;2022;29.05.2022;Fluminense;Flamengo RJ;1;1;1;2;[11];[35, 57];4.2;3.4;1.9;2.15;1.95;https://www.flashscore.com/match/x6ZeALZd/#/
+fBBn0yCk;BRAZIL;SERIE A;2022;29.05.2022;Cuiaba;Athletico-PR;0;0;0;1;[];[85];2.55;2.8;3.3;3.1;2.25;https://www.flashscore.com/match/fBBn0yCk/#/
+OMX38a49;BRAZIL;SERIE A;2022;29.05.2022;Corinthians;America MG;0;0;1;1;[82];[67];1.6;3.6;6.0;2.35;2.37;https://www.flashscore.com/match/OMX38a49/#/
+z1eDoxcd;BRAZIL;SERIE A;2022;29.05.2022;Atletico-MG;Avai;0;1;2;1;[53, 66];[42];1.22;6.5;15.0;1.75;2.62;https://www.flashscore.com/match/z1eDoxcd/#/
+pxMC6wZL;BRAZIL;SERIE A;2022;30.05.2022;Internacional;Atletico GO;1;0;1;1;[12];[79];1.6;3.8;6.5;2.15;2.1;https://www.flashscore.com/match/pxMC6wZL/#/
+xWtgXQKl;BRAZIL;SERIE A;2022;01.06.2022;Fortaleza;Ceara;0;1;0;1;[];[45];2.4;2.87;3.4;2.5;2.05;https://www.flashscore.com/match/xWtgXQKl/#/
+jw5ebFt2;BRAZIL;SERIE A;2022;04.06.2022;America MG;Cuiaba;1;1;2;1;[25, 53];[42];1.75;3.3;5.5;2.7;2.5;https://www.flashscore.com/match/jw5ebFt2/#/
+UuSM1lmf;BRAZIL;SERIE A;2022;04.06.2022;Ceara;Coritiba;1;0;1;1;[37];[85];1.57;3.8;6.5;2.05;2.05;https://www.flashscore.com/match/UuSM1lmf/#/
+Q7LVaSH6;BRAZIL;SERIE A;2022;04.06.2022;Avai;Sao Paulo;0;1;1;1;[67];[45];4.0;3.2;2.05;2.6;2.1;https://www.flashscore.com/match/Q7LVaSH6/#/
+KUKZbnXC;BRAZIL;SERIE A;2022;04.06.2022;Athletico-PR;Santos;1;1;2;2;[43, 57];[12, 65];2.05;3.3;3.6;2.3;2.0;https://www.flashscore.com/match/KUKZbnXC/#/
+C4HR0820;BRAZIL;SERIE A;2022;04.06.2022;Atletico GO;Corinthians;0;1;0;1;[];[33];2.4;3.0;3.4;2.3;1.95;https://www.flashscore.com/match/C4HR0820/#/
+jkTI2UXm;BRAZIL;SERIE A;2022;05.06.2022;Juventude;Fluminense;1;0;1;0;[32];[];2.62;3.0;2.9;2.7;2.1;https://www.flashscore.com/match/jkTI2UXm/#/
+pj1oLxlF;BRAZIL;SERIE A;2022;05.06.2022;Palmeiras;Atletico-MG;0;0;0;0;[];[];2.05;3.4;3.6;1.98;1.75;https://www.flashscore.com/match/pj1oLxlF/#/
+4tgwNbJ2;BRAZIL;SERIE A;2022;05.06.2022;Flamengo RJ;Fortaleza;1;1;1;2;[45];[28, 90];1.53;4.0;6.5;1.88;1.95;https://www.flashscore.com/match/4tgwNbJ2/#/
+2RBtMIY8;BRAZIL;SERIE A;2022;05.06.2022;Bragantino;Internacional;0;0;0;2;[];[90, 90];2.3;3.1;3.5;2.4;2.0;https://www.flashscore.com/match/2RBtMIY8/#/
+MFOE3AIs;BRAZIL;SERIE A;2022;06.06.2022;Botafogo RJ;Goias;1;0;1;2;[45];[74, 84];1.7;3.4;5.75;2.4;2.25;https://www.flashscore.com/match/MFOE3AIs/#/
+xS65C51C;BRAZIL;SERIE A;2022;07.06.2022;Cuiaba;Corinthians;1;0;1;0;[36];[];3.0;2.87;2.75;3.1;2.25;https://www.flashscore.com/match/xS65C51C/#/
+jB4gF7Hg;BRAZIL;SERIE A;2022;08.06.2022;Juventude;Athletico-PR;1;1;1;3;[39];[45, 64, 90];2.8;2.87;2.9;2.7;2.2;https://www.flashscore.com/match/jB4gF7Hg/#/
+bLJwb6nJ;BRAZIL;SERIE A;2022;08.06.2022;America MG;Ceara;0;1;0;2;[];[22, 55];2.25;3.0;3.75;2.7;2.2;https://www.flashscore.com/match/bLJwb6nJ/#/
+x4OIL9vQ;BRAZIL;SERIE A;2022;08.06.2022;Bragantino;Flamengo RJ;1;0;1;0;[18];[];2.37;3.2;3.2;2.25;1.95;https://www.flashscore.com/match/x4OIL9vQ/#/
+by81Don6;BRAZIL;SERIE A;2022;08.06.2022;Atletico GO;Avai;1;1;2;1;[34, 90];[43];1.66;3.6;5.5;2.05;2.0;https://www.flashscore.com/match/by81Don6/#/
+8nFlGm2m;BRAZIL;SERIE A;2022;08.06.2022;Santos;Internacional;0;0;1;1;[65];[71];2.2;3.1;3.6;2.5;2.1;https://www.flashscore.com/match/8nFlGm2m/#/
+bDPEMkPJ;BRAZIL;SERIE A;2022;08.06.2022;Fluminense;Atletico-MG;3;2;5;3;[19, 29, 38, 58, 63];[35, 45, 54];3.75;3.0;2.25;2.5;2.05;https://www.flashscore.com/match/bDPEMkPJ/#/
+fqBpHTns;BRAZIL;SERIE A;2022;09.06.2022;Palmeiras;Botafogo RJ;3;0;4;0;[12, 18, 34, 87];[];1.4;4.75;8.0;1.7;1.95;https://www.flashscore.com/match/fqBpHTns/#/
+U13cERWa;BRAZIL;SERIE A;2022;09.06.2022;Fortaleza;Goias;1;0;1;1;[13];[87];1.5;4.0;7.0;2.05;2.1;https://www.flashscore.com/match/U13cERWa/#/
+KjdABPGI;BRAZIL;SERIE A;2022;09.06.2022;Coritiba;Sao Paulo;0;1;1;1;[59];[4];3.4;3.1;2.3;2.35;1.95;https://www.flashscore.com/match/KjdABPGI/#/
+4EUST6Wn;BRAZIL;SERIE A;2022;11.06.2022;Corinthians;Juventude;1;0;2;0;[2, 84];[];1.75;3.2;5.5;2.7;2.5;https://www.flashscore.com/match/4EUST6Wn/#/
+pUmdZS8P;BRAZIL;SERIE A;2022;11.06.2022;Fluminense;Atletico GO;0;2;0;2;[];[36, 45];1.9;3.3;4.75;2.2;2.0;https://www.flashscore.com/match/pUmdZS8P/#/
+CpLmProI;BRAZIL;SERIE A;2022;11.06.2022;Cuiaba;Bragantino;1;1;1;1;[45];[18];3.5;3.0;2.3;2.7;2.1;https://www.flashscore.com/match/CpLmProI/#/
+WQaEAqWO;BRAZIL;SERIE A;2022;11.06.2022;Atletico-MG;Santos;1;0;1;1;[6];[85];1.45;4.33;6.5;1.8;1.95;https://www.flashscore.com/match/WQaEAqWO/#/
+xSSzSp1a;BRAZIL;SERIE A;2022;11.06.2022;Internacional;Flamengo RJ;2;0;3;1;[1, 22, 90];[58];3.3;3.2;2.3;2.1;1.9;https://www.flashscore.com/match/xSSzSp1a/#/
+nwzOUnHt;BRAZIL;SERIE A;2022;12.06.2022;Sao Paulo;America MG;1;0;1;0;[34];[];1.7;3.5;5.75;2.15;2.05;https://www.flashscore.com/match/nwzOUnHt/#/
+YgMqQOVB;BRAZIL;SERIE A;2022;12.06.2022;Goias;Ceara;0;1;1;1;[85];[9];2.9;3.0;2.62;2.4;2.0;https://www.flashscore.com/match/YgMqQOVB/#/
+6LZjO20O;BRAZIL;SERIE A;2022;12.06.2022;Coritiba;Palmeiras;0;1;0;2;[];[23, 63];5.0;3.8;1.66;2.0;1.95;https://www.flashscore.com/match/6LZjO20O/#/
+jVWvR4G5;BRAZIL;SERIE A;2022;12.06.2022;Fortaleza;Athletico-PR;0;0;0;0;[];[];1.61;3.75;5.75;2.05;2.05;https://www.flashscore.com/match/jVWvR4G5/#/
+r5TWSQog;BRAZIL;SERIE A;2022;13.06.2022;Botafogo RJ;Avai;0;1;0;1;[];[45];1.83;3.4;4.75;2.15;1.95;https://www.flashscore.com/match/r5TWSQog/#/
+ERdIvOp5;BRAZIL;SERIE A;2022;14.06.2022;Juventude;Santos;1;0;1;2;[26];[57, 77];2.25;2.9;3.4;2.6;2.1;https://www.flashscore.com/match/ERdIvOp5/#/
+hIeMwr0B;BRAZIL;SERIE A;2022;15.06.2022;Ceara;Atletico-MG;0;0;0;0;[];[];3.5;3.3;2.15;2.25;1.95;https://www.flashscore.com/match/hIeMwr0B/#/
+Ox45sQ0n;BRAZIL;SERIE A;2022;15.06.2022;Bragantino;Coritiba;3;0;4;2;[7, 34, 36, 75];[51, 90];1.57;3.8;6.5;2.1;2.2;https://www.flashscore.com/match/Ox45sQ0n/#/
+nueQx2FH;BRAZIL;SERIE A;2022;15.06.2022;Goias;Internacional;1;1;1;2;[41];[9, 47];3.5;3.1;2.25;2.3;2.0;https://www.flashscore.com/match/nueQx2FH/#/
+AZa1r6ot;BRAZIL;SERIE A;2022;15.06.2022;Flamengo RJ;Cuiaba;1;0;2;0;[7, 79];[];1.33;4.75;9.0;1.7;2.0;https://www.flashscore.com/match/AZa1r6ot/#/
+tvlZztpU;BRAZIL;SERIE A;2022;15.06.2022;Athletico-PR;Corinthians;0;1;1;1;[82];[6];2.3;3.0;3.4;2.5;2.05;https://www.flashscore.com/match/tvlZztpU/#/
+pCYfNMFU;BRAZIL;SERIE A;2022;15.06.2022;America MG;Fluminense;0;0;0;0;[];[];2.25;3.1;3.5;2.5;2.1;https://www.flashscore.com/match/pCYfNMFU/#/
+dj2Du4Vb;BRAZIL;SERIE A;2022;16.06.2022;Botafogo RJ;Sao Paulo;0;0;1;0;[61];[];3.3;3.0;2.3;2.6;2.1;https://www.flashscore.com/match/dj2Du4Vb/#/
+Ia39tpGh;BRAZIL;SERIE A;2022;16.06.2022;Palmeiras;Atletico GO;4;1;4;2;[42, 44, 45, 45];[29, 79];1.4;4.5;9.0;1.7;1.9;https://www.flashscore.com/match/Ia39tpGh/#/
+bFbUyMUN;BRAZIL;SERIE A;2022;16.06.2022;Avai;Fortaleza;2;1;3;2;[33, 40, 70];[44, 65];3.1;3.1;2.45;2.3;1.95;https://www.flashscore.com/match/bFbUyMUN/#/
+dAbUXCTk;BRAZIL;SERIE A;2022;18.06.2022;Cuiaba;Ceara;0;0;0;0;[];[];2.75;2.9;2.8;2.6;2.1;https://www.flashscore.com/match/dAbUXCTk/#/
+6LLehsF4;BRAZIL;SERIE A;2022;18.06.2022;Santos;Bragantino;2;1;2;2;[17, 37];[45, 71];2.1;3.25;3.8;2.25;1.95;https://www.flashscore.com/match/6LLehsF4/#/
+jXcYWWrd;BRAZIL;SERIE A;2022;19.06.2022;Coritiba;Athletico-PR;0;0;0;1;[];[90];2.55;2.9;3.1;2.6;2.1;https://www.flashscore.com/match/jXcYWWrd/#/
+hIHigNab;BRAZIL;SERIE A;2022;19.06.2022;Corinthians;Goias;1;0;1;0;[34];[];1.53;3.8;7.5;2.15;2.2;https://www.flashscore.com/match/hIHigNab/#/
+rmz1Waho;BRAZIL;SERIE A;2022;19.06.2022;Atletico-MG;Flamengo RJ;1;0;2;0;[35, 85];[];1.95;3.6;4.0;1.95;1.8;https://www.flashscore.com/match/rmz1Waho/#/
+0rLai1UA;BRAZIL;SERIE A;2022;19.06.2022;Internacional;Botafogo RJ;2;1;2;3;[9, 14];[19, 59, 90];1.53;3.8;7.5;2.05;2.1;https://www.flashscore.com/match/0rLai1UA/#/
+vZJ3jLqH;BRAZIL;SERIE A;2022;19.06.2022;Fortaleza;America MG;1;0;1;0;[43];[];1.72;3.8;5.0;2.15;2.05;https://www.flashscore.com/match/vZJ3jLqH/#/
+IJaQYhEq;BRAZIL;SERIE A;2022;19.06.2022;Atletico GO;Juventude;0;1;3;1;[59, 63, 86];[23];1.66;3.6;5.5;2.1;2.0;https://www.flashscore.com/match/IJaQYhEq/#/
+W2TreqVo;BRAZIL;SERIE A;2022;19.06.2022;Fluminense;Avai;1;0;2;0;[5, 72];[];1.66;3.5;5.75;2.3;2.2;https://www.flashscore.com/match/W2TreqVo/#/
+AgSnf3ph;BRAZIL;SERIE A;2022;20.06.2022;Sao Paulo;Palmeiras;1;0;1;2;[17];[90, 90];3.0;3.2;2.5;2.35;2.0;https://www.flashscore.com/match/AgSnf3ph/#/
+WjVoTWcR;BRAZIL;SERIE A;2022;24.06.2022;Internacional;Coritiba;2;0;3;0;[19, 42, 54];[];1.72;3.6;5.25;2.0;1.95;https://www.flashscore.com/match/WjVoTWcR/#/
+rqUPLlj1;BRAZIL;SERIE A;2022;25.06.2022;Athletico-PR;Bragantino;3;0;4;2;[5, 17, 23, 67];[79, 82];3.1;3.1;2.37;2.5;2.0;https://www.flashscore.com/match/rqUPLlj1/#/
+2BwVWEb2;BRAZIL;SERIE A;2022;25.06.2022;Flamengo RJ;America MG;1;0;3;0;[41, 71, 90];[];1.53;4.2;6.5;1.83;1.9;https://www.flashscore.com/match/2BwVWEb2/#/
+AyswVhTE;BRAZIL;SERIE A;2022;25.06.2022;Corinthians;Santos;0;0;0;0;[];[];2.2;2.9;3.8;2.7;2.2;https://www.flashscore.com/match/AyswVhTE/#/
+4z2xWjb2;BRAZIL;SERIE A;2022;25.06.2022;Atletico-MG;Fortaleza;0;2;3;2;[76, 87, 90];[3, 29];1.85;3.2;5.0;2.5;2.2;https://www.flashscore.com/match/4z2xWjb2/#/
+lSusUCrL;BRAZIL;SERIE A;2022;26.06.2022;Botafogo RJ;Fluminense;0;0;0;1;[];[82];3.0;3.1;2.45;2.5;2.05;https://www.flashscore.com/match/lSusUCrL/#/
+Q7ZKMUze;BRAZIL;SERIE A;2022;26.06.2022;Avai;Palmeiras;1;0;2;2;[45, 73];[48, 66];4.75;3.2;1.85;2.5;2.2;https://www.flashscore.com/match/Q7ZKMUze/#/
+t2xZVYD8;BRAZIL;SERIE A;2022;26.06.2022;Sao Paulo;Juventude;0;0;0;0;[];[];1.6;3.8;6.5;2.15;2.2;https://www.flashscore.com/match/t2xZVYD8/#/
+nHzHNALl;BRAZIL;SERIE A;2022;26.06.2022;Goias;Cuiaba;0;0;1;0;[80];[];2.3;2.87;3.6;2.7;2.1;https://www.flashscore.com/match/nHzHNALl/#/
+hfyDOj6r;BRAZIL;SERIE A;2022;26.06.2022;Ceara;Atletico GO;0;1;1;1;[48];[26];1.9;3.25;4.33;2.2;1.95;https://www.flashscore.com/match/hfyDOj6r/#/
+tvdjxAzr;BRAZIL;SERIE A;2022;02.07.2022;Juventude;Atletico-MG;0;1;1;2;[76];[30, 56];4.5;3.4;1.85;2.35;2.05;https://www.flashscore.com/match/tvdjxAzr/#/
+zwHBqhr8;BRAZIL;SERIE A;2022;02.07.2022;Fluminense;Corinthians;2;0;4;0;[16, 43, 71, 90];[];1.57;3.5;7.5;2.6;2.62;https://www.flashscore.com/match/zwHBqhr8/#/
+Ae9OtjSQ;BRAZIL;SERIE A;2022;02.07.2022;Santos;Flamengo RJ;0;1;1;2;[66];[19, 74];3.0;3.2;2.5;2.15;1.9;https://www.flashscore.com/match/Ae9OtjSQ/#/
+KUffyUkl;BRAZIL;SERIE A;2022;02.07.2022;Ceara;Internacional;1;1;1;1;[20];[24];2.05;3.2;4.0;2.35;2.0;https://www.flashscore.com/match/KUffyUkl/#/
+W4AKsWCK;BRAZIL;SERIE A;2022;02.07.2022;Palmeiras;Athletico-PR;0;1;0;2;[];[36, 58];1.36;5.25;8.0;1.66;1.95;https://www.flashscore.com/match/W4AKsWCK/#/
+Gdl3Z7K0;BRAZIL;SERIE A;2022;03.07.2022;Avai;Cuiaba;1;0;1;2;[30];[49, 65];2.2;3.0;3.75;2.7;2.2;https://www.flashscore.com/match/Gdl3Z7K0/#/
+2gpazl5f;BRAZIL;SERIE A;2022;03.07.2022;Atletico GO;Sao Paulo;1;1;1;2;[30];[25, 63];2.7;3.1;2.75;2.25;1.95;https://www.flashscore.com/match/2gpazl5f/#/
+AJm7YRZ6;BRAZIL;SERIE A;2022;03.07.2022;Coritiba;Fortaleza;1;0;2;1;[2, 90];[84];2.3;3.3;3.0;2.2;1.95;https://www.flashscore.com/match/AJm7YRZ6/#/
+MZSTK857;BRAZIL;SERIE A;2022;03.07.2022;America MG;Goias;0;0;1;0;[59];[];1.8;3.4;4.75;2.2;2.0;https://www.flashscore.com/match/MZSTK857/#/
+ltLFrCcE;BRAZIL;SERIE A;2022;04.07.2022;Bragantino;Botafogo RJ;0;0;0;1;[];[65];1.66;3.6;5.75;2.15;2.05;https://www.flashscore.com/match/ltLFrCcE/#/
+4IUceksK;BRAZIL;SERIE A;2022;09.07.2022;Bragantino;Avai;0;0;4;0;[70, 76, 87, 90];[];1.5;4.0;6.0;1.98;2.0;https://www.flashscore.com/match/4IUceksK/#/
+QRVgdVRD;BRAZIL;SERIE A;2022;09.07.2022;Fluminense;Ceara;1;0;2;1;[40, 54];[90];1.7;3.6;5.0;2.2;2.1;https://www.flashscore.com/match/QRVgdVRD/#/
+OMDtmRl0;BRAZIL;SERIE A;2022;09.07.2022;Goias;Athletico-PR;2;0;2;1;[6, 40];[62];2.7;3.1;2.8;2.4;2.0;https://www.flashscore.com/match/OMDtmRl0/#/
+px2ko5JC;BRAZIL;SERIE A;2022;10.07.2022;Coritiba;Juventude;0;2;2;2;[53, 78];[5, 34];1.85;3.4;4.33;2.25;2.0;https://www.flashscore.com/match/px2ko5JC/#/
+buU1f9dQ;BRAZIL;SERIE A;2022;10.07.2022;Corinthians;Flamengo RJ;0;0;1;0;[52];[];2.9;3.0;2.6;2.6;2.1;https://www.flashscore.com/match/buU1f9dQ/#/
+YXKTkT4s;BRAZIL;SERIE A;2022;10.07.2022;Santos;Atletico GO;0;0;1;0;[77];[];1.95;3.3;4.2;2.15;1.95;https://www.flashscore.com/match/YXKTkT4s/#/
+fm9xl7Zg;BRAZIL;SERIE A;2022;10.07.2022;Fortaleza;Palmeiras;0;0;0;0;[];[];3.75;3.3;2.05;2.07;1.9;https://www.flashscore.com/match/fm9xl7Zg/#/
+lAnBXokD;BRAZIL;SERIE A;2022;10.07.2022;Atletico-MG;Sao Paulo;0;0;0;0;[];[];1.55;3.8;6.5;2.1;2.2;https://www.flashscore.com/match/lAnBXokD/#/
+2DCpno46;BRAZIL;SERIE A;2022;10.07.2022;Cuiaba;Botafogo RJ;1;0;2;0;[22, 90];[];2.25;3.1;3.6;2.7;2.25;https://www.flashscore.com/match/2DCpno46/#/
+GdAYlmKm;BRAZIL;SERIE A;2022;11.07.2022;Internacional;America MG;0;0;1;0;[90];[];1.61;3.75;5.5;2.05;2.0;https://www.flashscore.com/match/GdAYlmKm/#/
+IJ7Ocr3I;BRAZIL;SERIE A;2022;16.07.2022;Athletico-PR;Internacional;0;0;0;0;[];[];2.2;3.2;3.5;2.15;1.9;https://www.flashscore.com/match/IJ7Ocr3I/#/
+Crfy98BJ;BRAZIL;SERIE A;2022;16.07.2022;Flamengo RJ;Coritiba;2;0;2;0;[13, 23];[];1.5;4.75;6.0;1.75;1.95;https://www.flashscore.com/match/Crfy98BJ/#/
+lp3KbOmC;BRAZIL;SERIE A;2022;16.07.2022;Avai;Santos;1;0;1;0;[10];[];3.0;3.0;2.45;2.35;1.95;https://www.flashscore.com/match/lp3KbOmC/#/
+SUEB0pJa;BRAZIL;SERIE A;2022;16.07.2022;Ceara;Corinthians;2;1;3;1;[28, 34, 77];[4];1.83;3.2;5.0;2.7;2.37;https://www.flashscore.com/match/SUEB0pJa/#/
+ERA71Q3g;BRAZIL;SERIE A;2022;17.07.2022;Juventude;Goias;0;0;0;0;[];[];2.05;3.1;4.0;2.4;2.1;https://www.flashscore.com/match/ERA71Q3g/#/
+jZhu8SQP;BRAZIL;SERIE A;2022;17.07.2022;Sao Paulo;Fluminense;2;1;2;2;[34, 43];[26, 64];2.55;3.0;3.0;2.4;2.0;https://www.flashscore.com/match/jZhu8SQP/#/
+K4B326lm;BRAZIL;SERIE A;2022;17.07.2022;Botafogo RJ;Atletico-MG;0;0;0;1;[];[55];5.25;3.5;1.75;2.25;2.05;https://www.flashscore.com/match/K4B326lm/#/
+Ag4Ga4Y5;BRAZIL;SERIE A;2022;17.07.2022;Atletico GO;Fortaleza;0;0;0;1;[];[74];2.05;3.3;3.75;2.1;1.9;https://www.flashscore.com/match/Ag4Ga4Y5/#/
+bu6gpPYI;BRAZIL;SERIE A;2022;17.07.2022;America MG;Bragantino;0;3;0;3;[];[2, 7, 41];2.7;3.25;2.7;2.15;1.9;https://www.flashscore.com/match/bu6gpPYI/#/
+tECa3nZt;BRAZIL;SERIE A;2022;18.07.2022;Palmeiras;Cuiaba;0;0;1;0;[50];[];1.28;5.25;13.0;1.72;2.25;https://www.flashscore.com/match/tECa3nZt/#/
+x44e0yPG;BRAZIL;SERIE A;2022;19.07.2022;Ceara;Avai;1;0;1;0;[45];[];1.36;4.75;11.0;1.88;2.2;https://www.flashscore.com/match/x44e0yPG/#/
+WQ3aaevN;BRAZIL;SERIE A;2022;20.07.2022;Goias;Fluminense;1;1;2;3;[45, 80];[29, 84, 86];4.5;3.6;1.8;2.15;2.0;https://www.flashscore.com/match/WQ3aaevN/#/
+8OCv4JPi;BRAZIL;SERIE A;2022;20.07.2022;Bragantino;Fortaleza;1;0;2;1;[38, 90];[58];1.8;3.4;5.0;2.1;2.0;https://www.flashscore.com/match/8OCv4JPi/#/
+jBpWgZ1p;BRAZIL;SERIE A;2022;20.07.2022;Athletico-PR;Atletico GO;2;0;4;1;[10, 15, 50, 90];[72];1.95;3.2;4.33;2.2;1.95;https://www.flashscore.com/match/jBpWgZ1p/#/
+bD5i1H9A;BRAZIL;SERIE A;2022;20.07.2022;Internacional;Sao Paulo;3;2;3;3;[5, 25, 41];[10, 33, 54];1.85;3.4;4.5;2.25;2.0;https://www.flashscore.com/match/bD5i1H9A/#/
+dl9z5aAo;BRAZIL;SERIE A;2022;20.07.2022;Flamengo RJ;Juventude;3;0;4;0;[7, 13, 18, 88];[];1.36;5.25;8.0;1.66;2.0;https://www.flashscore.com/match/dl9z5aAo/#/
+txBn2cf4;BRAZIL;SERIE A;2022;20.07.2022;Santos;Botafogo RJ;1;0;2;0;[34, 77];[];1.9;3.4;4.0;2.15;2.0;https://www.flashscore.com/match/txBn2cf4/#/
+2oCr3wub;BRAZIL;SERIE A;2022;20.07.2022;Corinthians;Coritiba;1;0;3;1;[36, 67, 85];[54];1.61;3.6;6.5;2.3;2.2;https://www.flashscore.com/match/2oCr3wub/#/
+pU73bFgT;BRAZIL;SERIE A;2022;21.07.2022;Cuiaba;Atletico-MG;0;0;1;1;[90];[90];3.5;2.9;2.3;2.87;2.25;https://www.flashscore.com/match/pU73bFgT/#/
+fqVitGXp;BRAZIL;SERIE A;2022;21.07.2022;America MG;Palmeiras;0;0;0;1;[];[66];4.75;3.5;1.75;2.15;2.0;https://www.flashscore.com/match/fqVitGXp/#/
+zaWLGd9c;BRAZIL;SERIE A;2022;23.07.2022;Sao Paulo;Goias;2;2;3;3;[30, 33, 48];[9, 39, 90];1.44;4.2;8.0;2.02;2.1;https://www.flashscore.com/match/zaWLGd9c/#/
+WQPUEzvA;BRAZIL;SERIE A;2022;23.07.2022;Botafogo RJ;Athletico-PR;1;0;2;0;[20, 55];[];2.25;3.1;3.4;2.3;1.95;https://www.flashscore.com/match/WQPUEzvA/#/
+OO497hWq;BRAZIL;SERIE A;2022;24.07.2022;Avai;Flamengo RJ;0;0;1;2;[48];[55, 84];6.0;3.8;1.6;2.0;1.95;https://www.flashscore.com/match/OO497hWq/#/
+INLQFGO3;BRAZIL;SERIE A;2022;24.07.2022;Palmeiras;Internacional;1;0;2;1;[18, 88];[82];1.5;3.8;7.5;1.83;1.95;https://www.flashscore.com/match/INLQFGO3/#/
+QmPYDfgG;BRAZIL;SERIE A;2022;24.07.2022;Juventude;Ceara;0;0;1;0;[66];[];2.9;3.1;2.5;2.4;2.05;https://www.flashscore.com/match/QmPYDfgG/#/
+d8XHHxfi;BRAZIL;SERIE A;2022;24.07.2022;Fluminense;Bragantino;0;0;2;1;[62, 67];[72];1.9;3.5;4.2;1.98;1.8;https://www.flashscore.com/match/d8XHHxfi/#/
+U1qzggHj;BRAZIL;SERIE A;2022;24.07.2022;Atletico-MG;Corinthians;1;0;1;2;[9];[81, 87];1.44;4.0;9.5;2.25;2.5;https://www.flashscore.com/match/U1qzggHj/#/
+MFIsCYNS;BRAZIL;SERIE A;2022;24.07.2022;Atletico GO;America MG;0;1;0;1;[];[33];1.8;3.4;4.75;2.1;1.95;https://www.flashscore.com/match/MFIsCYNS/#/
+4vOxDE8M;BRAZIL;SERIE A;2022;24.07.2022;Fortaleza;Santos;0;0;0;0;[];[];1.8;3.6;4.75;2.2;2.0;https://www.flashscore.com/match/4vOxDE8M/#/
+Io4D6Coj;BRAZIL;SERIE A;2022;25.07.2022;Coritiba;Cuiaba;1;0;1;0;[40];[];2.1;3.25;3.8;2.4;2.1;https://www.flashscore.com/match/Io4D6Coj/#/
+zcVHYUUr;BRAZIL;SERIE A;2022;30.07.2022;Goias;Coritiba;0;0;1;0;[80];[];2.5;3.1;3.0;2.2;1.9;https://www.flashscore.com/match/zcVHYUUr/#/
+YmqjwBMR;BRAZIL;SERIE A;2022;30.07.2022;Ceara;Palmeiras;0;2;1;2;[80];[31, 45];3.6;3.3;2.1;2.2;1.95;https://www.flashscore.com/match/YmqjwBMR/#/
+rajwtDx9;BRAZIL;SERIE A;2022;30.07.2022;Corinthians;Botafogo RJ;1;0;1;0;[28];[];1.83;3.3;5.0;2.7;2.37;https://www.flashscore.com/match/rajwtDx9/#/
+GhbiI9p2;BRAZIL;SERIE A;2022;30.07.2022;Flamengo RJ;Atletico GO;4;0;4;1;[22, 24, 33, 45];[83];1.45;4.0;7.0;1.98;2.0;https://www.flashscore.com/match/GhbiI9p2/#/
+4Evnvi7L;BRAZIL;SERIE A;2022;31.07.2022;Internacional;Atletico-MG;3;0;3;0;[7, 24, 31];[];3.25;2.9;2.45;2.6;2.05;https://www.flashscore.com/match/4Evnvi7L/#/
+UeOQW8ae;BRAZIL;SERIE A;2022;31.07.2022;Athletico-PR;Sao Paulo;0;0;1;0;[69];[];2.0;3.25;4.0;2.25;2.0;https://www.flashscore.com/match/UeOQW8ae/#/
+ILKMXlpk;BRAZIL;SERIE A;2022;31.07.2022;Cuiaba;Fortaleza;0;1;0;1;[];[25];2.62;2.9;3.0;3.1;2.25;https://www.flashscore.com/match/ILKMXlpk/#/
+x2amJkVe;BRAZIL;SERIE A;2022;31.07.2022;America MG;Avai;1;1;3;1;[34, 70, 90];[5];1.72;3.6;5.0;2.05;2.0;https://www.flashscore.com/match/x2amJkVe/#/
+UenZtgN2;BRAZIL;SERIE A;2022;31.07.2022;Bragantino;Juventude;1;0;1;0;[28];[];1.55;3.8;6.5;2.0;2.0;https://www.flashscore.com/match/UenZtgN2/#/
+QNuruXiF;BRAZIL;SERIE A;2022;01.08.2022;Santos;Fluminense;1;0;2;2;[16, 87];[71, 73];3.0;3.1;2.45;2.15;1.9;https://www.flashscore.com/match/QNuruXiF/#/
+OGWhzr6m;BRAZIL;SERIE A;2022;06.08.2022;Juventude;America MG;0;1;0;1;[];[8];2.37;3.1;3.25;2.1;1.9;https://www.flashscore.com/match/OGWhzr6m/#/
+ADSlyOjs;BRAZIL;SERIE A;2022;06.08.2022;Botafogo RJ;Ceara;1;0;1;1;[9];[50];2.3;3.1;3.3;2.4;2.0;https://www.flashscore.com/match/ADSlyOjs/#/
+v7Z4Xuj6;BRAZIL;SERIE A;2022;06.08.2022;Avai;Corinthians;1;0;1;1;[36];[77];3.1;2.87;2.62;2.7;2.1;https://www.flashscore.com/match/v7Z4Xuj6/#/
+pWK1YLz0;BRAZIL;SERIE A;2022;06.08.2022;Atletico GO;Bragantino;0;0;2;1;[52, 60];[86];3.1;3.2;2.37;2.1;1.9;https://www.flashscore.com/match/pWK1YLz0/#/
+vR5HgW68;BRAZIL;SERIE A;2022;06.08.2022;Sao Paulo;Flamengo RJ;0;1;0;2;[];[7, 90];3.3;3.25;2.25;2.25;1.95;https://www.flashscore.com/match/vR5HgW68/#/
+IH4LhjME;BRAZIL;SERIE A;2022;07.08.2022;Palmeiras;Goias;2;0;3;0;[20, 45, 83];[];1.25;6.5;11.0;1.53;2.1;https://www.flashscore.com/match/IH4LhjME/#/
+29MYUnU7;BRAZIL;SERIE A;2022;07.08.2022;Fluminense;Cuiaba;1;0;1;0;[2];[];1.5;3.8;7.5;2.4;2.62;https://www.flashscore.com/match/29MYUnU7/#/
+6uMcZ1Lg;BRAZIL;SERIE A;2022;07.08.2022;Fortaleza;Internacional;1;0;3;0;[45, 70, 84];[];1.72;3.6;5.25;2.07;1.95;https://www.flashscore.com/match/6uMcZ1Lg/#/
+OINUVSE1;BRAZIL;SERIE A;2022;07.08.2022;Atletico-MG;Athletico-PR;1;0;2;3;[31, 54];[47, 56, 90];1.5;4.0;7.0;2.05;2.1;https://www.flashscore.com/match/OINUVSE1/#/
+IcY8Wa5C;BRAZIL;SERIE A;2022;08.08.2022;Coritiba;Santos;0;0;1;2;[57];[47, 90];2.6;3.1;2.9;2.5;2.05;https://www.flashscore.com/match/IcY8Wa5C/#/
+W0broaK5;BRAZIL;SERIE A;2022;13.08.2022;Goias;Avai;0;1;1;1;[79];[45];1.95;3.3;4.33;2.1;1.95;https://www.flashscore.com/match/W0broaK5/#/
+Uy2RlsLt;BRAZIL;SERIE A;2022;13.08.2022;Corinthians;Palmeiras;0;0;0;1;[];[72];3.3;3.1;2.37;2.5;2.05;https://www.flashscore.com/match/Uy2RlsLt/#/
+EPmmpJZB;BRAZIL;SERIE A;2022;13.08.2022;Cuiaba;Juventude;1;0;1;0;[22];[];2.0;3.1;4.33;2.87;2.37;https://www.flashscore.com/match/EPmmpJZB/#/
+nDdWm1zm;BRAZIL;SERIE A;2022;13.08.2022;Botafogo RJ;Atletico GO;0;0;0;0;[];[];2.0;3.4;3.8;2.2;1.95;https://www.flashscore.com/match/nDdWm1zm/#/
+hGniqwkI;BRAZIL;SERIE A;2022;14.08.2022;Coritiba;Atletico-MG;0;0;0;1;[];[90];4.75;3.75;1.72;2.2;2.1;https://www.flashscore.com/match/hGniqwkI/#/
+SSFagNCP;BRAZIL;SERIE A;2022;14.08.2022;Sao Paulo;Bragantino;1;0;3;0;[25, 59, 61];[];2.1;3.4;3.5;2.15;1.95;https://www.flashscore.com/match/SSFagNCP/#/
+EPRHUwzP;BRAZIL;SERIE A;2022;14.08.2022;Flamengo RJ;Athletico-PR;0;0;5;0;[56, 59, 63, 72, 90];[];1.33;5.0;10.0;1.66;2.0;https://www.flashscore.com/match/EPRHUwzP/#/
+KQfvnu5a;BRAZIL;SERIE A;2022;14.08.2022;Ceara;Fortaleza;0;1;0;1;[];[18];2.8;3.0;2.7;2.6;2.05;https://www.flashscore.com/match/KQfvnu5a/#/
+0MNDVJKI;BRAZIL;SERIE A;2022;14.08.2022;America MG;Santos;1;0;1;0;[15];[];2.3;3.2;3.25;2.3;1.95;https://www.flashscore.com/match/0MNDVJKI/#/
+Q3ezmLkg;BRAZIL;SERIE A;2022;14.08.2022;Internacional;Fluminense;1;0;3;0;[36, 72, 90];[];2.45;3.1;3.1;2.3;1.95;https://www.flashscore.com/match/Q3ezmLkg/#/
+Mkierc4O;BRAZIL;SERIE A;2022;20.08.2022;Atletico-MG;Goias;0;0;0;1;[];[52];1.22;6.0;13.0;1.65;2.25;https://www.flashscore.com/match/Mkierc4O/#/
+0tjasHJU;BRAZIL;SERIE A;2022;20.08.2022;Fluminense;Coritiba;2;0;5;2;[3, 36, 77, 90, 90];[72, 84];1.4;4.75;8.0;1.9;2.1;https://www.flashscore.com/match/0tjasHJU/#/
+Em6Fq70b;BRAZIL;SERIE A;2022;21.08.2022;Juventude;Botafogo RJ;1;0;2;2;[9, 65];[61, 72];2.45;3.1;3.1;2.3;1.95;https://www.flashscore.com/match/Em6Fq70b/#/
+tz87oTVo;BRAZIL;SERIE A;2022;21.08.2022;Palmeiras;Flamengo RJ;0;1;1;1;[66];[30];1.9;3.4;4.0;2.07;1.95;https://www.flashscore.com/match/tz87oTVo/#/
+faNCrRF4;BRAZIL;SERIE A;2022;21.08.2022;Fortaleza;Corinthians;0;0;1;0;[65];[];1.95;3.2;4.5;2.5;2.2;https://www.flashscore.com/match/faNCrRF4/#/
+SW33n9Gu;BRAZIL;SERIE A;2022;21.08.2022;Bragantino;Ceara;0;0;1;1;[90];[80];1.83;3.4;4.75;2.25;2.1;https://www.flashscore.com/match/SW33n9Gu/#/
+YkMGsoVA;BRAZIL;SERIE A;2022;21.08.2022;Atletico GO;Cuiaba;1;0;1;1;[34];[81];2.2;3.0;3.75;2.7;2.2;https://www.flashscore.com/match/YkMGsoVA/#/
+tGPOuPaN;BRAZIL;SERIE A;2022;21.08.2022;Athletico-PR;America MG;1;0;1;1;[26];[64];1.85;3.4;4.33;2.05;1.9;https://www.flashscore.com/match/tGPOuPaN/#/
+zc7Bpmoh;BRAZIL;SERIE A;2022;21.08.2022;Santos;Sao Paulo;1;0;1;0;[34];[];2.25;3.1;3.3;2.35;2.0;https://www.flashscore.com/match/zc7Bpmoh/#/
+SCLKt5pH;BRAZIL;SERIE A;2022;22.08.2022;Avai;Internacional;0;0;0;1;[];[90];3.8;3.2;2.1;2.2;2.0;https://www.flashscore.com/match/SCLKt5pH/#/
+6HacfOEG;BRAZIL;SERIE A;2022;27.08.2022;Goias;Atletico GO;1;0;2;1;[11, 54];[84];2.62;3.0;2.9;2.25;1.95;https://www.flashscore.com/match/6HacfOEG/#/
+2qg6h2qT;BRAZIL;SERIE A;2022;27.08.2022;Coritiba;Avai;0;0;1;0;[79];[];1.9;3.5;4.0;2.2;2.0;https://www.flashscore.com/match/2qg6h2qT/#/
+Qm1ez3Np;BRAZIL;SERIE A;2022;27.08.2022;Fluminense;Palmeiras;1;1;1;1;[38];[8];3.0;3.2;2.45;2.15;1.9;https://www.flashscore.com/match/Qm1ez3Np/#/
+SQ0ge4aA;BRAZIL;SERIE A;2022;27.08.2022;Ceara;Athletico-PR;0;0;0;0;[];[];1.75;3.5;5.0;2.15;2.0;https://www.flashscore.com/match/SQ0ge4aA/#/
+E3fwan0o;BRAZIL;SERIE A;2022;28.08.2022;Sao Paulo;Fortaleza;0;1;0;1;[];[32];1.95;3.5;4.0;2.35;2.05;https://www.flashscore.com/match/E3fwan0o/#/
+OvFTvqFT;BRAZIL;SERIE A;2022;28.08.2022;America MG;Atletico-MG;1;1;1;1;[19];[10];6.0;3.75;1.65;2.1;2.05;https://www.flashscore.com/match/OvFTvqFT/#/
+Ohf2grUM;BRAZIL;SERIE A;2022;28.08.2022;Cuiaba;Santos;0;0;0;0;[];[];2.3;2.9;3.5;2.87;2.25;https://www.flashscore.com/match/Ohf2grUM/#/
+zJrncQUc;BRAZIL;SERIE A;2022;28.08.2022;Botafogo RJ;Flamengo RJ;0;0;0;1;[];[58];4.75;3.75;1.72;2.07;2.0;https://www.flashscore.com/match/zJrncQUc/#/
+Y31kdpp4;BRAZIL;SERIE A;2022;29.08.2022;Internacional;Juventude;2;0;4;0;[38, 45, 48, 90];[];1.4;4.5;8.5;1.95;2.1;https://www.flashscore.com/match/Y31kdpp4/#/
+hfgsb6Fi;BRAZIL;SERIE A;2022;29.08.2022;Corinthians;Bragantino;1;0;1;0;[32];[];2.05;3.0;4.33;2.7;2.25;https://www.flashscore.com/match/hfgsb6Fi/#/
+0vLW8NT9;BRAZIL;SERIE A;2022;03.09.2022;Juventude;Avai;0;0;1;1;[71];[59];2.2;3.1;3.5;2.4;2.0;https://www.flashscore.com/match/0vLW8NT9/#/
+zXNKBPqi;BRAZIL;SERIE A;2022;03.09.2022;Bragantino;Palmeiras;2;1;2;2;[25, 36];[45, 72];2.6;3.1;2.9;2.35;2.0;https://www.flashscore.com/match/zXNKBPqi/#/
+ShyDlgre;BRAZIL;SERIE A;2022;03.09.2022;Athletico-PR;Fluminense;1;0;1;0;[26];[];3.2;3.1;2.37;2.07;1.8;https://www.flashscore.com/match/ShyDlgre/#/
+KOuYmMip;BRAZIL;SERIE A;2022;03.09.2022;America MG;Coritiba;1;0;2;0;[31, 79];[];1.61;3.75;6.5;2.1;2.05;https://www.flashscore.com/match/KOuYmMip/#/
+YRqxmt7j;BRAZIL;SERIE A;2022;04.09.2022;Flamengo RJ;Ceara;0;1;1;1;[53];[45];1.4;4.75;8.0;1.93;2.2;https://www.flashscore.com/match/YRqxmt7j/#/
+r3Ay8sqG;BRAZIL;SERIE A;2022;04.09.2022;Fortaleza;Botafogo RJ;0;2;1;3;[71];[19, 36, 64];1.7;3.5;5.5;2.35;2.2;https://www.flashscore.com/match/r3Ay8sqG/#/
+ENMOAqac;BRAZIL;SERIE A;2022;04.09.2022;Corinthians;Internacional;2;1;2;2;[13, 19];[2, 67];2.37;3.0;3.3;2.7;2.2;https://www.flashscore.com/match/ENMOAqac/#/
+fuw5jFDr;BRAZIL;SERIE A;2022;04.09.2022;Atletico GO;Atletico-MG;0;1;0;2;[];[45, 58];4.5;3.5;1.85;2.2;2.05;https://www.flashscore.com/match/fuw5jFDr/#/
+l2x9kZSl;BRAZIL;SERIE A;2022;04.09.2022;Cuiaba;Sao Paulo;1;0;1;1;[7];[81];2.25;2.9;3.6;3.1;2.37;https://www.flashscore.com/match/l2x9kZSl/#/
+MmMS93E3;BRAZIL;SERIE A;2022;05.09.2022;Santos;Goias;0;1;1;2;[55];[3, 61];1.57;4.0;5.75;1.98;2.0;https://www.flashscore.com/match/MmMS93E3/#/
+pUVHmDc1;BRAZIL;SERIE A;2022;07.09.2022;Atletico-MG;Bragantino;1;1;1;1;[18];[31];1.65;3.75;5.75;2.1;2.05;https://www.flashscore.com/match/pUVHmDc1/#/
+ADAG8EZQ;BRAZIL;SERIE A;2022;10.09.2022;Internacional;Cuiaba;0;0;1;0;[68];[];1.6;3.6;6.5;2.3;2.25;https://www.flashscore.com/match/ADAG8EZQ/#/
+252r4Ysr;BRAZIL;SERIE A;2022;10.09.2022;Ceara;Santos;2;0;2;1;[6, 30];[57];2.1;3.1;4.0;2.6;2.2;https://www.flashscore.com/match/252r4Ysr/#/
+OKULnXC7;BRAZIL;SERIE A;2022;10.09.2022;Fluminense;Fortaleza;1;0;2;1;[11, 57];[52];1.7;3.6;5.25;2.1;2.0;https://www.flashscore.com/match/OKULnXC7/#/
+lbM7Az5E;BRAZIL;SERIE A;2022;10.09.2022;Palmeiras;Juventude;0;0;2;1;[47, 67];[63];1.18;7.0;19.0;1.53;2.25;https://www.flashscore.com/match/lbM7Az5E/#/
+WMBC9fKK;BRAZIL;SERIE A;2022;11.09.2022;Botafogo RJ;America MG;0;0;0;0;[];[];2.0;3.2;4.2;2.1;1.95;https://www.flashscore.com/match/WMBC9fKK/#/
+OKji2CCf;BRAZIL;SERIE A;2022;11.09.2022;Avai;Athletico-PR;1;0;1;1;[23];[48];3.5;3.1;2.3;2.4;2.0;https://www.flashscore.com/match/OKji2CCf/#/
+xOI3BGk8;BRAZIL;SERIE A;2022;11.09.2022;Sao Paulo;Corinthians;1;1;1;1;[33];[15];2.5;2.8;3.3;2.87;2.2;https://www.flashscore.com/match/xOI3BGk8/#/
+xOfe1WR0;BRAZIL;SERIE A;2022;11.09.2022;Coritiba;Atletico GO;1;0;2;0;[45, 50];[];2.2;3.2;3.5;2.2;1.95;https://www.flashscore.com/match/xOfe1WR0/#/
+td1n3hcl;BRAZIL;SERIE A;2022;11.09.2022;Goias;Flamengo RJ;0;0;1;1;[81];[87];6.0;4.0;1.57;1.95;1.95;https://www.flashscore.com/match/td1n3hcl/#/
+d2dQEkd0;BRAZIL;SERIE A;2022;17.09.2022;Avai;Atletico-MG;0;0;1;0;[54];[];4.5;3.4;1.9;2.2;2.0;https://www.flashscore.com/match/d2dQEkd0/#/
+UiCoMX3Q;BRAZIL;SERIE A;2022;17.09.2022;Botafogo RJ;Coritiba;0;0;2;0;[76, 79];[];1.53;4.0;6.5;2.1;2.2;https://www.flashscore.com/match/UiCoMX3Q/#/
+dvEwOgZD;BRAZIL;SERIE A;2022;18.09.2022;Bragantino;Goias;1;0;1;1;[28];[55];1.45;4.2;8.0;1.9;2.05;https://www.flashscore.com/match/dvEwOgZD/#/
+Ayg3aAdD;BRAZIL;SERIE A;2022;18.09.2022;Flamengo RJ;Fluminense;0;1;1;2;[84];[45, 76];1.61;3.75;5.75;2.02;2.0;https://www.flashscore.com/match/Ayg3aAdD/#/
+lxgIGBRm;BRAZIL;SERIE A;2022;18.09.2022;Ceara;Sao Paulo;0;1;0;2;[];[23, 90];2.55;3.1;3.0;2.4;2.0;https://www.flashscore.com/match/lxgIGBRm/#/
+6D3DHiCs;BRAZIL;SERIE A;2022;18.09.2022;Juventude;Fortaleza;0;1;1;1;[78];[44];3.5;3.0;2.3;2.2;1.95;https://www.flashscore.com/match/6D3DHiCs/#/
+Wpfa0js7;BRAZIL;SERIE A;2022;18.09.2022;America MG;Corinthians;0;0;1;0;[77];[];2.2;3.1;3.75;2.4;2.0;https://www.flashscore.com/match/Wpfa0js7/#/
+zVCsNDlK;BRAZIL;SERIE A;2022;18.09.2022;Palmeiras;Santos;0;0;1;0;[77];[];1.4;4.33;9.5;1.88;2.1;https://www.flashscore.com/match/zVCsNDlK/#/
+zgeUD9B6;BRAZIL;SERIE A;2022;18.09.2022;Athletico-PR;Cuiaba;2;1;2;2;[32, 45];[9, 64];1.7;3.3;6.5;2.6;2.37;https://www.flashscore.com/match/zgeUD9B6/#/
+SSiMFVtf;BRAZIL;SERIE A;2022;19.09.2022;Atletico GO;Internacional;0;2;1;2;[64];[28, 35];3.5;3.2;2.2;2.3;2.0;https://www.flashscore.com/match/SSiMFVtf/#/
+rexLzXIJ;BRAZIL;SERIE A;2022;25.09.2022;Sao Paulo;Avai;3;0;4;0;[25, 45, 45, 90];[];1.4;4.5;9.0;1.83;2.1;https://www.flashscore.com/match/rexLzXIJ/#/
+2uJiVAts;BRAZIL;SERIE A;2022;27.09.2022;Santos;Athletico-PR;1;0;2;0;[36, 90];[];2.05;3.25;3.8;2.25;1.95;https://www.flashscore.com/match/2uJiVAts/#/
+zgHaTlBg;BRAZIL;SERIE A;2022;28.09.2022;Fortaleza;Flamengo RJ;1;2;3;2;[18, 52, 90];[32, 45];3.0;3.0;2.6;2.5;2.05;https://www.flashscore.com/match/zgHaTlBg/#/
+UilwCmtJ;BRAZIL;SERIE A;2022;28.09.2022;Fluminense;Juventude;2;0;4;0;[20, 29, 57, 88];[];1.36;5.25;7.5;1.65;2.0;https://www.flashscore.com/match/UilwCmtJ/#/
+AB9CQneC;BRAZIL;SERIE A;2022;28.09.2022;Coritiba;Ceara;1;0;1;0;[30];[];2.2;3.25;3.4;2.3;1.95;https://www.flashscore.com/match/AB9CQneC/#/
+MoyPZjYP;BRAZIL;SERIE A;2022;28.09.2022;Corinthians;Atletico GO;1;1;2;1;[12, 88];[17];1.61;3.75;6.0;2.2;2.2;https://www.flashscore.com/match/MoyPZjYP/#/
+WKA8RSu6;BRAZIL;SERIE A;2022;28.09.2022;Cuiaba;America MG;1;0;2;1;[32, 57];[90];2.4;3.1;3.2;2.6;2.1;https://www.flashscore.com/match/WKA8RSu6/#/
+tWHeUUem;BRAZIL;SERIE A;2022;28.09.2022;Internacional;Bragantino;0;0;0;0;[];[];1.85;3.5;4.33;2.07;1.95;https://www.flashscore.com/match/tWHeUUem/#/
+ldL3S8Qa;BRAZIL;SERIE A;2022;28.09.2022;Goias;Botafogo RJ;0;0;0;1;[];[89];3.3;3.2;2.25;2.3;1.95;https://www.flashscore.com/match/ldL3S8Qa/#/
+IHpZCTQC;BRAZIL;SERIE A;2022;28.09.2022;Atletico-MG;Palmeiras;0;0;0;1;[];[51];1.85;3.4;4.5;2.25;2.05;https://www.flashscore.com/match/IHpZCTQC/#/
+86yws8ug;BRAZIL;SERIE A;2022;01.10.2022;Internacional;Santos;1;0;1;0;[23];[];1.72;3.5;5.25;2.15;2.0;https://www.flashscore.com/match/86yws8ug/#/
+QsWstSfa;BRAZIL;SERIE A;2022;01.10.2022;Ceara;America MG;0;1;1;2;[90];[25, 68];2.0;3.2;4.2;2.15;2.0;https://www.flashscore.com/match/QsWstSfa/#/
+Iy9GP6AI;BRAZIL;SERIE A;2022;01.10.2022;Atletico-MG;Fluminense;1;0;2;0;[41, 65];[];1.72;3.5;5.5;2.05;1.95;https://www.flashscore.com/match/Iy9GP6AI/#/
+4YUounA5;BRAZIL;SERIE A;2022;01.10.2022;Goias;Fortaleza;0;1;0;1;[];[14];2.8;3.0;2.75;2.35;1.95;https://www.flashscore.com/match/4YUounA5/#/
+dS7KOQPO;BRAZIL;SERIE A;2022;01.10.2022;Flamengo RJ;Bragantino;1;0;4;1;[12, 66, 70, 71];[48];1.45;4.5;7.0;1.93;2.05;https://www.flashscore.com/match/dS7KOQPO/#/
+beUkv6PB;BRAZIL;SERIE A;2022;01.10.2022;Avai;Atletico GO;0;1;1;2;[67];[45, 56];2.25;3.1;3.75;2.25;1.95;https://www.flashscore.com/match/beUkv6PB/#/
+dtmgwQvI;BRAZIL;SERIE A;2022;01.10.2022;Athletico-PR;Juventude;1;0;2;0;[20, 69];[];1.45;4.75;6.5;2.0;2.2;https://www.flashscore.com/match/dtmgwQvI/#/
+zgwVrUAt;BRAZIL;SERIE A;2022;01.10.2022;Corinthians;Cuiaba;2;0;2;0;[33, 45];[];1.66;3.4;6.5;2.6;2.37;https://www.flashscore.com/match/zgwVrUAt/#/
+UFxZslQn;BRAZIL;SERIE A;2022;03.10.2022;Botafogo RJ;Palmeiras;1;2;1;3;[20];[26, 36, 60];5.5;3.5;1.7;2.1;2.0;https://www.flashscore.com/match/UFxZslQn/#/
+v3oMtaoA;BRAZIL;SERIE A;2022;04.10.2022;Juventude;Corinthians;0;1;2;2;[46, 62];[24, 54];4.75;3.4;1.83;2.5;2.25;https://www.flashscore.com/match/v3oMtaoA/#/
+YPpQuJ0G;BRAZIL;SERIE A;2022;05.10.2022;Ceara;Goias;0;0;1;1;[48];[90];1.66;3.75;5.25;2.2;2.2;https://www.flashscore.com/match/YPpQuJ0G/#/
+4pg9q11i;BRAZIL;SERIE A;2022;05.10.2022;Bragantino;Cuiaba;1;1;2;1;[45, 61];[34];1.9;3.3;4.5;2.5;2.2;https://www.flashscore.com/match/4pg9q11i/#/
+CGqUvwGM;BRAZIL;SERIE A;2022;05.10.2022;Atletico GO;Fluminense;1;2;3;2;[45, 75, 89];[5, 37];3.1;3.3;2.37;2.2;1.95;https://www.flashscore.com/match/CGqUvwGM/#/
+fymgZGwp;BRAZIL;SERIE A;2022;05.10.2022;Athletico-PR;Fortaleza;0;1;1;1;[90];[15];2.05;3.3;3.8;2.2;1.95;https://www.flashscore.com/match/fymgZGwp/#/
+QasIsuW3;BRAZIL;SERIE A;2022;05.10.2022;Santos;Atletico-MG;0;0;1;2;[88];[72, 90];3.1;3.2;2.4;2.5;2.1;https://www.flashscore.com/match/QasIsuW3/#/
+GUaRKHOj;BRAZIL;SERIE A;2022;05.10.2022;Flamengo RJ;Internacional;0;0;0;0;[];[];1.4;4.5;8.0;1.65;1.9;https://www.flashscore.com/match/GUaRKHOj/#/
+ryhDrLGc;BRAZIL;SERIE A;2022;06.10.2022;Palmeiras;Coritiba;2;0;4;0;[15, 34, 54, 77];[];1.2;7.0;13.0;1.57;2.1;https://www.flashscore.com/match/ryhDrLGc/#/
+hS0RwcVS;BRAZIL;SERIE A;2022;06.10.2022;Avai;Botafogo RJ;1;0;1;2;[11];[49, 56];2.55;3.0;3.0;2.35;1.95;https://www.flashscore.com/match/hS0RwcVS/#/
+xv1NLc9p;BRAZIL;SERIE A;2022;06.10.2022;America MG;Sao Paulo;1;1;1;2;[10];[34, 90];2.62;3.2;2.7;2.2;1.9;https://www.flashscore.com/match/xv1NLc9p/#/
+21CWnz8q;BRAZIL;SERIE A;2022;08.10.2022;Cuiaba;Flamengo RJ;0;0;1;2;[90];[58, 66];3.6;3.2;2.15;2.4;2.05;https://www.flashscore.com/match/21CWnz8q/#/
+rcTmeb03;BRAZIL;SERIE A;2022;08.10.2022;Corinthians;Athletico-PR;2;0;2;1;[6, 22];[81];2.15;3.25;3.6;2.7;2.2;https://www.flashscore.com/match/rcTmeb03/#/
+jNWegxVF;BRAZIL;SERIE A;2022;09.10.2022;Internacional;Goias;2;2;4;2;[13, 42, 57, 90];[33, 45];1.4;4.75;8.0;1.93;2.2;https://www.flashscore.com/match/jNWegxVF/#/
+46Uqdvoc;BRAZIL;SERIE A;2022;09.10.2022;Sao Paulo;Botafogo RJ;0;0;0;1;[];[90];1.66;4.0;5.5;2.05;2.05;https://www.flashscore.com/match/46Uqdvoc/#/
+YoM0hdpM;BRAZIL;SERIE A;2022;09.10.2022;Fortaleza;Avai;0;0;2;0;[54, 90];[];1.5;3.8;8.0;2.15;2.2;https://www.flashscore.com/match/YoM0hdpM/#/
+21j1Xf8d;BRAZIL;SERIE A;2022;09.10.2022;Fluminense;America MG;0;2;0;2;[];[5, 34];1.61;4.0;6.0;1.9;1.9;https://www.flashscore.com/match/21j1Xf8d/#/
+thBznfNk;BRAZIL;SERIE A;2022;09.10.2022;Coritiba;Bragantino;1;1;2;1;[12, 58];[27];2.6;3.0;3.0;2.25;1.95;https://www.flashscore.com/match/thBznfNk/#/
+lbncYzgj;BRAZIL;SERIE A;2022;09.10.2022;Atletico-MG;Ceara;0;0;0;0;[];[];1.45;4.2;8.0;2.15;2.37;https://www.flashscore.com/match/lbncYzgj/#/
+pMP4iGaS;BRAZIL;SERIE A;2022;10.10.2022;Atletico GO;Palmeiras;0;0;1;1;[65];[49];5.75;4.0;1.61;1.98;1.95;https://www.flashscore.com/match/pMP4iGaS/#/
+CWXifIF9;BRAZIL;SERIE A;2022;10.10.2022;Santos;Juventude;1;0;4;1;[24, 54, 63, 75];[78];1.45;4.0;7.5;2.1;2.25;https://www.flashscore.com/match/CWXifIF9/#/
+xK4qpYi2;BRAZIL;SERIE A;2022;15.10.2022;Flamengo RJ;Atletico-MG;1;0;1;0;[38];[];2.62;3.0;2.9;2.5;2.0;https://www.flashscore.com/match/xK4qpYi2/#/
+bT5uoExd;BRAZIL;SERIE A;2022;15.10.2022;America MG;Fortaleza;0;1;1;2;[90];[34, 83];2.15;3.3;3.6;2.1;1.9;https://www.flashscore.com/match/bT5uoExd/#/
+4QdV7yp9;BRAZIL;SERIE A;2022;16.10.2022;Palmeiras;Sao Paulo;0;0;0;0;[];[];1.61;4.0;5.5;2.05;2.0;https://www.flashscore.com/match/4QdV7yp9/#/
+KGas5ZTR;BRAZIL;SERIE A;2022;16.10.2022;Ceara;Cuiaba;0;0;1;1;[90];[82];2.05;3.1;4.33;2.6;2.25;https://www.flashscore.com/match/KGas5ZTR/#/
+Quov6FEL;BRAZIL;SERIE A;2022;16.10.2022;Juventude;Atletico GO;0;0;1;1;[76];[51];2.75;3.2;2.7;2.2;1.9;https://www.flashscore.com/match/Quov6FEL/#/
+nknz7eaF;BRAZIL;SERIE A;2022;16.10.2022;Botafogo RJ;Internacional;0;0;0;1;[];[67];2.62;3.1;2.8;2.3;1.95;https://www.flashscore.com/match/nknz7eaF/#/
+4lyEaDik;BRAZIL;SERIE A;2022;16.10.2022;Avai;Fluminense;0;2;0;3;[];[26, 41, 64];4.2;3.3;1.95;2.25;2.0;https://www.flashscore.com/match/4lyEaDik/#/
+IiuIbX6e;BRAZIL;SERIE A;2022;16.10.2022;Athletico-PR;Coritiba;0;0;1;0;[90];[];1.7;3.75;5.25;2.05;2.0;https://www.flashscore.com/match/IiuIbX6e/#/
+jNhR8HU2;BRAZIL;SERIE A;2022;17.10.2022;Bragantino;Santos;0;0;0;2;[];[51, 69];1.9;3.3;4.33;2.25;2.0;https://www.flashscore.com/match/jNhR8HU2/#/
+bXo3mA2P;BRAZIL;SERIE A;2022;20.10.2022;Sao Paulo;Coritiba;1;0;3;1;[3, 63, 72];[84];1.4;4.33;9.5;2.02;2.2;https://www.flashscore.com/match/bXo3mA2P/#/
+Uk9653u8;BRAZIL;SERIE A;2022;22.10.2022;Bragantino;Athletico-PR;3;0;4;2;[5, 37, 45, 90];[64, 67];2.05;3.3;3.6;2.2;1.95;https://www.flashscore.com/match/Uk9653u8/#/
+237E3sAK;BRAZIL;SERIE A;2022;22.10.2022;Santos;Corinthians;0;0;0;1;[];[89];2.6;2.87;3.1;3.1;2.37;https://www.flashscore.com/match/237E3sAK/#/
+CEvMciM1;BRAZIL;SERIE A;2022;22.10.2022;America MG;Flamengo RJ;1;2;1;2;[13];[11, 24];2.75;3.3;2.62;2.15;1.9;https://www.flashscore.com/match/CEvMciM1/#/
+8t8A4NfE;BRAZIL;SERIE A;2022;22.10.2022;Palmeiras;Avai;1;0;3;0;[4, 55, 90];[];1.16;7.0;19.0;1.5;2.25;https://www.flashscore.com/match/8t8A4NfE/#/
+EwBI21PQ;BRAZIL;SERIE A;2022;23.10.2022;Juventude;Sao Paulo;1;1;1;2;[39];[36, 56];4.5;3.5;1.83;2.1;2.0;https://www.flashscore.com/match/EwBI21PQ/#/
+j5wQdBy8;BRAZIL;SERIE A;2022;23.10.2022;Fluminense;Botafogo RJ;0;1;2;2;[76, 82];[41, 52];1.83;3.5;4.75;2.15;1.95;https://www.flashscore.com/match/j5wQdBy8/#/
+Spigda2f;BRAZIL;SERIE A;2022;23.10.2022;Cuiaba;Goias;0;2;1;2;[66];[8, 21];1.72;3.75;5.0;2.2;2.05;https://www.flashscore.com/match/Spigda2f/#/
+6yjceJH0;BRAZIL;SERIE A;2022;23.10.2022;Coritiba;Internacional;1;0;1;1;[24];[60];4.0;3.5;1.95;2.1;1.95;https://www.flashscore.com/match/6yjceJH0/#/
+bBnkcuml;BRAZIL;SERIE A;2022;23.10.2022;Atletico GO;Ceara;1;0;1;0;[24];[];2.25;3.2;3.4;2.25;1.95;https://www.flashscore.com/match/bBnkcuml/#/
+KKmobLXs;BRAZIL;SERIE A;2022;24.10.2022;Fortaleza;Atletico-MG;0;0;0;0;[];[];2.4;2.9;3.4;2.6;2.1;https://www.flashscore.com/match/KKmobLXs/#/
+23q6gcnD;BRAZIL;SERIE A;2022;25.10.2022;Flamengo RJ;Santos;1;0;3;2;[45, 79, 87];[53, 90];1.36;4.75;8.0;1.75;2.05;https://www.flashscore.com/match/23q6gcnD/#/
+tE2ZfANH;BRAZIL;SERIE A;2022;25.10.2022;Athletico-PR;Palmeiras;1;0;1;3;[31];[60, 71, 76];6.5;3.8;1.57;2.1;2.2;https://www.flashscore.com/match/tE2ZfANH/#/
+YsCEaY8n;BRAZIL;SERIE A;2022;26.10.2022;Botafogo RJ;Bragantino;1;0;2;1;[18, 71];[62];2.25;3.3;3.3;2.25;1.95;https://www.flashscore.com/match/YsCEaY8n/#/
+CYAIbhOh;BRAZIL;SERIE A;2022;26.10.2022;Internacional;Ceara;0;1;2;1;[65, 78];[6];1.65;3.75;5.5;2.15;2.05;https://www.flashscore.com/match/CYAIbhOh/#/
+KbEQdWh5;BRAZIL;SERIE A;2022;26.10.2022;Goias;America MG;0;0;2;2;[61, 90];[60, 88];2.9;3.25;2.5;2.1;1.9;https://www.flashscore.com/match/KbEQdWh5/#/
+hWfH0Egt;BRAZIL;SERIE A;2022;26.10.2022;Corinthians;Fluminense;0;1;0;2;[];[12, 70];2.25;3.2;3.4;2.4;2.1;https://www.flashscore.com/match/hWfH0Egt/#/
+G6XmItPD;BRAZIL;SERIE A;2022;27.10.2022;Sao Paulo;Atletico GO;1;0;2;1;[22, 90];[72];1.65;3.75;5.75;1.93;1.95;https://www.flashscore.com/match/G6XmItPD/#/
+6eAMcCwa;BRAZIL;SERIE A;2022;27.10.2022;Fortaleza;Coritiba;1;0;3;1;[2, 55, 73];[60];1.45;4.33;7.0;1.8;1.95;https://www.flashscore.com/match/6eAMcCwa/#/
+l0u2fwX6;BRAZIL;SERIE A;2022;27.10.2022;Atletico-MG;Juventude;1;0;1;0;[12];[];1.2;6.5;15.0;1.53;2.25;https://www.flashscore.com/match/l0u2fwX6/#/
+2N3Vej8B;BRAZIL;SERIE A;2022;27.10.2022;Cuiaba;Avai;*;0;1;0;[90];[];1.8;3.4;4.75;2.25;2.0;https://www.flashscore.com/match/2N3Vej8B/#/
+MPo90gxq;BRAZIL;SERIE A;2022;29.10.2022;Goias;Corinthians;0;0;0;0;[];[];2.8;3.0;2.7;2.5;2.05;https://www.flashscore.com/match/MPo90gxq/#/
+2yq4AkN4;BRAZIL;SERIE A;2022;31.10.2022;Ceara;Fluminense;0;0;0;1;[];[72];3.3;3.2;2.25;2.15;1.9;https://www.flashscore.com/match/2yq4AkN4/#/
+69keCBhh;BRAZIL;SERIE A;2022;01.11.2022;Botafogo RJ;Cuiaba;0;1;0;2;[];[41, 52];1.85;3.3;4.75;2.4;2.2;https://www.flashscore.com/match/69keCBhh/#/
+E1XmEXNu;BRAZIL;SERIE A;2022;01.11.2022;Sao Paulo;Atletico-MG;2;1;2;2;[41, 45];[26, 81];2.5;3.0;3.1;2.6;2.1;https://www.flashscore.com/match/E1XmEXNu/#/
+lhoG7m7N;BRAZIL;SERIE A;2022;02.11.2022;Athletico-PR;Goias;3;1;3;2;[6, 13, 29];[40, 51];1.61;4.0;5.75;1.98;1.95;https://www.flashscore.com/match/lhoG7m7N/#/
+Am7wfUxO;BRAZIL;SERIE A;2022;02.11.2022;America MG;Internacional;0;0;1;0;[76];[];2.37;3.2;3.1;2.07;1.8;https://www.flashscore.com/match/Am7wfUxO/#/
+p0laBV7b;BRAZIL;SERIE A;2022;02.11.2022;Juventude;Coritiba;0;0;0;1;[];[90];2.5;3.2;2.9;2.15;1.9;https://www.flashscore.com/match/p0laBV7b/#/
+zksC8TiH;BRAZIL;SERIE A;2022;02.11.2022;Avai;Bragantino;0;0;1;2;[90];[60, 68];3.4;3.3;2.2;2.15;1.95;https://www.flashscore.com/match/zksC8TiH/#/
+tSs899xB;BRAZIL;SERIE A;2022;02.11.2022;Atletico GO;Santos;2;1;2;3;[29, 39];[20, 53, 90];1.95;3.5;4.0;2.15;1.95;https://www.flashscore.com/match/tSs899xB/#/
+CnjiDiwn;BRAZIL;SERIE A;2022;02.11.2022;Palmeiras;Fortaleza;2;0;4;0;[15, 32, 49, 65];[];1.45;4.5;7.0;1.66;1.8;https://www.flashscore.com/match/CnjiDiwn/#/
+lv6sglhU;BRAZIL;SERIE A;2022;02.11.2022;Flamengo RJ;Corinthians;0;1;1;2;[49];[43, 75];1.7;3.75;5.0;2.15;2.05;https://www.flashscore.com/match/lv6sglhU/#/
+MoawPlxb;BRAZIL;SERIE A;2022;05.11.2022;Santos;Avai;1;0;1;1;[5];[51];1.4;4.33;8.5;2.02;2.2;https://www.flashscore.com/match/MoawPlxb/#/
+YPMn2RUp;BRAZIL;SERIE A;2022;05.11.2022;Fluminense;Sao Paulo;0;1;3;1;[48, 56, 59];[30];2.1;3.4;3.6;2.0;1.7;https://www.flashscore.com/match/YPMn2RUp/#/
+821kMnMG;BRAZIL;SERIE A;2022;05.11.2022;Goias;Juventude;0;0;1;0;[81];[];1.61;3.8;6.0;1.98;1.95;https://www.flashscore.com/match/821kMnMG/#/
+0WAUQA7o;BRAZIL;SERIE A;2022;05.11.2022;Bragantino;America MG;1;3;1;4;[18];[6, 25, 42, 90];1.95;3.4;3.8;1.9;1.75;https://www.flashscore.com/match/0WAUQA7o/#/
+vN9YPUMi;BRAZIL;SERIE A;2022;05.11.2022;Corinthians;Ceara;0;0;1;0;[90];[];1.85;3.3;4.5;2.4;2.1;https://www.flashscore.com/match/vN9YPUMi/#/
+zk3sO8i4;BRAZIL;SERIE A;2022;05.11.2022;Internacional;Athletico-PR;0;0;2;0;[63, 67];[];1.9;3.5;4.33;2.07;1.95;https://www.flashscore.com/match/zk3sO8i4/#/
+UB2oNS6A;BRAZIL;SERIE A;2022;06.11.2022;Fortaleza;Atletico GO;0;1;1;1;[58];[17];1.66;3.8;5.75;1.9;1.9;https://www.flashscore.com/match/UB2oNS6A/#/
+4UfbKQjT;BRAZIL;SERIE A;2022;06.11.2022;Coritiba;Flamengo RJ;0;0;1;0;[58];[];3.4;3.25;2.15;2.15;1.95;https://www.flashscore.com/match/4UfbKQjT/#/
+QwdfL6yN;BRAZIL;SERIE A;2022;06.11.2022;Cuiaba;Palmeiras;1;0;1;1;[6];[76];3.5;3.4;2.05;2.1;1.95;https://www.flashscore.com/match/QwdfL6yN/#/
+WGzL67MT;BRAZIL;SERIE A;2022;07.11.2022;Atletico-MG;Botafogo RJ;0;0;0;2;[];[76, 84];1.65;3.75;5.75;2.1;2.05;https://www.flashscore.com/match/WGzL67MT/#/
+zkPCwlii;BRAZIL;SERIE A;2022;08.11.2022;Sao Paulo;Internacional;0;1;0;1;[];[22];1.8;3.6;4.5;2.07;1.95;https://www.flashscore.com/match/zkPCwlii/#/
+YqoUE4Ej;BRAZIL;SERIE A;2022;09.11.2022;Fluminense;Goias;0;0;3;0;[78, 83, 90];[];1.36;5.0;8.5;1.6;1.95;https://www.flashscore.com/match/YqoUE4Ej/#/
+E363T3Tq;BRAZIL;SERIE A;2022;09.11.2022;Coritiba;Corinthians;2;1;2;2;[10, 37];[30, 49];2.87;3.0;2.75;2.6;2.1;https://www.flashscore.com/match/E363T3Tq/#/
+CfKyYqLS;BRAZIL;SERIE A;2022;09.11.2022;Avai;Ceara;0;0;2;0;[49, 90];[];4.0;3.5;1.9;2.2;2.0;https://www.flashscore.com/match/CfKyYqLS/#/
+4UGTZ5jG;BRAZIL;SERIE A;2022;09.11.2022;Fortaleza;Bragantino;4;0;6;0;[26, 37, 42, 45, 57, 90];[];1.8;3.6;4.5;1.98;1.8;https://www.flashscore.com/match/4UGTZ5jG/#/
+EuOGx86c;BRAZIL;SERIE A;2022;09.11.2022;Palmeiras;America MG;1;1;2;1;[42, 81];[15];1.45;4.75;6.0;1.53;1.66;https://www.flashscore.com/match/EuOGx86c/#/
+M5ROznyA;BRAZIL;SERIE A;2022;09.11.2022;Juventude;Flamengo RJ;2;1;2;2;[36, 43];[1, 90];5.5;3.8;1.65;2.07;2.05;https://www.flashscore.com/match/M5ROznyA/#/
+IXKXYP5M;BRAZIL;SERIE A;2022;09.11.2022;Atletico GO;Athletico-PR;0;0;1;1;[51];[61];2.1;3.4;3.6;2.02;1.8;https://www.flashscore.com/match/IXKXYP5M/#/
+rFSKySL3;BRAZIL;SERIE A;2022;10.11.2022;Botafogo RJ;Santos;1;0;3;0;[10, 53, 70];[];2.25;3.3;3.3;2.25;1.95;https://www.flashscore.com/match/rFSKySL3/#/
+M9sQFpap;BRAZIL;SERIE A;2022;10.11.2022;Atletico-MG;Cuiaba;2;0;3;0;[4, 45, 56];[];1.5;4.2;7.0;2.07;2.2;https://www.flashscore.com/match/M9sQFpap/#/
+KGy4Rsbd;BRAZIL;SERIE A;2022;12.11.2022;Flamengo RJ;Avai;1;1;1;2;[43];[45, 80];1.16;7.5;17.0;1.4;2.1;https://www.flashscore.com/match/KGy4Rsbd/#/
+UoJfl559;BRAZIL;SERIE A;2022;13.11.2022;Santos;Fortaleza;0;0;0;2;[];[67, 85];3.5;3.2;2.25;1.95;1.7;https://www.flashscore.com/match/UoJfl559/#/
+8xIbmPKF;BRAZIL;SERIE A;2022;13.11.2022;Internacional;Palmeiras;2;0;3;0;[10, 39, 86];[];2.5;3.5;2.8;1.72;1.61;https://www.flashscore.com/match/8xIbmPKF/#/
+EypWUG4l;BRAZIL;SERIE A;2022;13.11.2022;Goias;Sao Paulo;0;1;0;4;[];[20, 71, 77, 90];5.0;3.8;1.7;1.95;1.9;https://www.flashscore.com/match/EypWUG4l/#/
+d0ZzUzKf;BRAZIL;SERIE A;2022;13.11.2022;Cuiaba;Coritiba;2;0;2;1;[38, 44];[78];1.9;3.6;4.0;2.15;2.05;https://www.flashscore.com/match/d0ZzUzKf/#/
+nNTkkoj3;BRAZIL;SERIE A;2022;13.11.2022;Corinthians;Atletico-MG;0;1;0;1;[];[45];3.1;3.1;2.5;2.4;2.05;https://www.flashscore.com/match/nNTkkoj3/#/
+zooSVdkr;BRAZIL;SERIE A;2022;13.11.2022;Ceara;Juventude;2;0;4;1;[24, 45, 70, 89];[52];1.65;3.8;5.25;1.9;1.9;https://www.flashscore.com/match/zooSVdkr/#/
+YJPojRzc;BRAZIL;SERIE A;2022;13.11.2022;Bragantino;Fluminense;0;1;0;1;[];[31];2.45;3.5;2.75;1.7;1.61;https://www.flashscore.com/match/YJPojRzc/#/
+8zwuTfZ0;BRAZIL;SERIE A;2022;13.11.2022;Athletico-PR;Botafogo RJ;0;0;3;0;[52, 62, 90];[];2.2;3.2;3.5;2.1;1.9;https://www.flashscore.com/match/8zwuTfZ0/#/
+tQx0SNrj;BRAZIL;SERIE A;2022;13.11.2022;America MG;Atletico GO;1;1;1;1;[45];[18];1.57;4.33;5.25;1.6;1.7;https://www.flashscore.com/match/tQx0SNrj/#/
